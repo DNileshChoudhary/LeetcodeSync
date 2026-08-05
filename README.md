@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
