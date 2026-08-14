@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0877-stone-game) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3517-smallest-palindromic-rearrangement-i) |
