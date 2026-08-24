@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3731-find-missing-elements) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
