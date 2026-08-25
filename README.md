@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0561-array-partition) |
 | [2864-maximum-odd-binary-number](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
