@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2864-maximum-odd-binary-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
