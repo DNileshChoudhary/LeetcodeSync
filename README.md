@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0561-array-partition) |
+| [1603-design-parking-system](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1603-design-parking-system) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0189-rotate-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
