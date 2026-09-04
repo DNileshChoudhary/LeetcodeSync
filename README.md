@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1603-design-parking-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
