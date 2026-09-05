@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
