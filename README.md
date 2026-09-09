@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
