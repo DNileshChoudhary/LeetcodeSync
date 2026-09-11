@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2000-reverse-prefix-of-word) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
