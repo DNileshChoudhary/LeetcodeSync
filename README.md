@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0038-count-and-say) |
 | [1528-shuffle-string](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1528-shuffle-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
