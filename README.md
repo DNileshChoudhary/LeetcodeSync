@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0628-maximum-product-of-three-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0038-count-and-say) |
+| [0821-shortest-distance-to-a-character](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0821-shortest-distance-to-a-character) |
 | [1528-shuffle-string](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1528-shuffle-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0189-rotate-array) |
+| [0821-shortest-distance-to-a-character](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0821-shortest-distance-to-a-character) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2000-reverse-prefix-of-word) |
 ## Design
