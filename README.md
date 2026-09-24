@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3074-apple-redistribution-into-boxes) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3904-smallest-stable-index-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3945-digit-frequency-score) |
 ## Number Theory
