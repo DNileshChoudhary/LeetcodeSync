@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0038-count-and-say) |
 | [0821-shortest-distance-to-a-character](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0821-shortest-distance-to-a-character) |
 | [1528-shuffle-string](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2000-reverse-prefix-of-word) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2000-reverse-prefix-of-word) |
 ## Database
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1720-decode-xored-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
