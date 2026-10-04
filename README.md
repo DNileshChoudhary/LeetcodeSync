@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0821-shortest-distance-to-a-character) |
 | [1528-shuffle-string](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2000-reverse-prefix-of-word) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0561-array-partition) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2864-maximum-odd-binary-number](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
