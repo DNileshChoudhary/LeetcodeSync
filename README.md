@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1528-shuffle-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0189-rotate-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/0821-shortest-distance-to-a-character) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2000-reverse-prefix-of-word) |
 ## Design
@@ -200,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
