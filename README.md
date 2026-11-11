@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1720-decode-xored-array) |
+| [1732-find-the-highest-altitude](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DNileshChoudhary/LeetcodeSync/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
